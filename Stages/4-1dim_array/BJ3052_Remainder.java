@@ -7,7 +7,7 @@ public class BJ3052_Remainder {
         int A = sc.nextInt();
         int B = sc.nextInt();
 
-        
+
         sc.close();
     }
 }
