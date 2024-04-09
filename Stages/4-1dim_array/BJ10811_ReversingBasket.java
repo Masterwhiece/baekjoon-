@@ -14,31 +14,27 @@ public class BJ10811_ReversingBasket {
 
         int start, end;
         for (int i = 0; i < m; i++) {
-            start = sc.nextInt()-1;
-            end = sc.nextInt()-1;
+            start = sc.nextInt() - 1;
+            end = sc.nextInt() - 1;
             int len = end - start + 1;
 
             int[] newArr = new int[len];
             for (int j = 0; j < len; j++) {
-                newArr[j] = intArr[end-j];
+                newArr[j] = intArr[end - j];
             }
-            for (int j = 0; j < newArr.length; j++) {
-                System.out.print(newArr[j] + " ");
-            }
-            System.out.println();
-
+//            for (int j = 0; j < newArr.length; j++) {
+//                System.out.print(newArr[j] + " ");
+//            }
+//            System.out.println();
 
 
             for (int j = 0; j < len; j++) {
-                intArr[start+j] = newArr[j];
+                intArr[start + j] = newArr[j];
             }
-            for (int j = 0; j < n; j++) {
-                System.out.print(intArr[j] + " ");
-            }
-            System.out.println();
-
-
-
+//            for (int j = 0; j < n; j++) {
+//                System.out.print(intArr[j] + " ");
+//            }
+//            System.out.println();
 
 
         }
