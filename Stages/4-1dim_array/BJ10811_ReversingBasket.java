@@ -35,9 +35,8 @@ public class BJ10811_ReversingBasket {
 //                System.out.print(intArr[j] + " ");
 //            }
 //            System.out.println();
-
-
         }
+
         for (int i = 0; i < n; i++) {
             System.out.print(intArr[i] + " ");
         }
