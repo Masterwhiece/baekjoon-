@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Stages/3-loop" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stages/4-1dim_array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stages/5-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/6-advance_1" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
