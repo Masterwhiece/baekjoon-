@@ -9,6 +9,16 @@
       <sourceFolder url="file://$MODULE_DIR$/Stages/4-1dim_array" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stages/5-string" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Stages/6-advance_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/10-geometry_rectangle_triangle" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/11-time_complexity" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/12-brute_force" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/13-sort" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/14-set_map" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/15-factor_multiple_decimal_2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/16-stack_queue_deck" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/7-2dim_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/8-math_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Stages/9-factor_multiple_decimal" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
